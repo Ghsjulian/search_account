@@ -42,7 +42,7 @@ This Isn't Any Hacking Program !
 
 >> cd search_account
 
->> python index.py
+>> python main.py
 
 >> now go to your web browser type "http://localhost:5000" 
 
